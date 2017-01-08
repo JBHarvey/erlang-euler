@@ -1,1 +1,1 @@
-# Learning Erlang with [Learn You Some Erlang](http://learnyousomeerlang.com/) and using it to solve [Euler Project](https://projecteuler.net/) problems.
+# Learning Erlang with [Learn You Some Erlang](http://learnyousomeerlang.com/) and using it to solve [Project Euler](https://projecteuler.net/)'s problems.
